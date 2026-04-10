@@ -108,24 +108,29 @@ Feel free to open an issue or submit a Pull Request.
 
 4. Push and open a Pull Request
 
-📬 About the Author
-Pavel Azangue (raketa25) — Passionate about Mathematics, Python, and making complex concepts accessible through code.
-Open to collaborations, especially on Math + Python + Education or Data Science / Scientific Computing projects.
+# 📬 About the Author
+
+Pavel Azangue (raketa25) — Passionate about Aerospace Engineering, Mathematics, Python, and making complex concepts accessible through code.
+
+Open to collaborations, especially on Math-Physics + Python + Education or Data Science / Scientific Computing projects.
+
 Connect with me:
 
-GitHub: @raketa25
-Linkedin: [text](https://www.linkedin.com/in/pavel-azangue-257b01254/)
+- GitHub: @raketa25
+- Linkedin: [text](https://www.linkedin.com/in/pavel-azangue-257b01254/)
 
 # ⭐ Support This Project
 
 If this repository helps you understand math better or improves your Python skills, please give it a star ⭐!
+
 It encourages me to keep adding more concepts and better explanations.
 
 # 📄 License
 
 This project is licensed under the MIT License — see the LICENSE file for details.
 
-Made with ❤️ for math lovers and Python enthusiasts
+# Made with ❤️ for math lovers and Python enthusiasts
 
-Inspired by "70 Concepts Mathématiques expliqués avec Python" by Guillaume Saupin
-Last updated: April 2026
+Inspired by "70 Concepts Mathématiques expliqués avec Python" by Guillaume Saupin.
+
+- Last updated: April 2026
